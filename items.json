@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Кроссовки 1",
+    "price": 10000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Кроссовки 2",
+    "price": 20000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Кроссовки 3",
+    "price": 5000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Кроссовки 4",
+    "price": 9000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Кроссовки 5",
+    "price": 12000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "name": "Кроссовки 6",
+    "price": 15000,
+    "image": "./images/catalog-img-1.jpg",
+    "quantity": 0
+  }
+]
