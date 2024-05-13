@@ -1,8 +1,8 @@
-import { Product } from "./getItems";
+import { ProductInCart } from "../getItems";
 
 export function renderCurrentPrice(
   priceInner: HTMLElement,
-  currProduct: Product
+  currProduct: ProductInCart
 ) {
   const { price, quantity } = currProduct;
   priceInner.insertAdjacentHTML(
